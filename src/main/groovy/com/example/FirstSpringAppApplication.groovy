@@ -9,6 +9,5 @@ class FirstSpringAppApplication {
 
 	static void main(String[] args) {
 		SpringApplication.run(FirstSpringAppApplication.class, args)
-
 	}
 }
